@@ -1,3 +1,32 @@
+
+## The goal of this WebPage
+It's used for organizing my repositories, according to their scope and use.
+I will try to update this page as soon as a new repo is added in my GitHub list.
+
+
+## Folder with all repos.
+
+### Sketchings and templates:
+[Encyclo-plant](https://github.com/AlexInntekt/Encyclo-plant)
+[CameraSample](https://github.com/AlexInntekt/CameraSample)
+[CustomisedBar](https://github.com/AlexInntekt/CustomisedBar)
+[SnapchatClone](https://github.com/AlexInntekt/SnapchatClone)
+[Local search Bar](https://github.com/AlexInntekt/QCDBS)
+[PokemonMap](https://github.com/AlexInntekt/PokemonMap)
+[MicrophoneApp](https://github.com/AlexInntekt/MicrophoneApp)
+[DoItList](https://github.com/AlexInntekt/DoItList)
+
+### Current Projects in the company:
+[Chakra-base](https://github.com/AlexInntekt/chakra-base)  'forked repository'
+
+### Other usefull repos:
+[BranchesMerger](https://github.com/AlexInntekt/BranchesMerger)
+[StudyRepo](https://github.com/AlexInntekt/StudyRepo)
+
+
+PS: 'Akuratni' in russian means tidy, organized.
+contact: alex.inntekt@gmail.com
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AlexInntekt/akuratni/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
