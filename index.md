@@ -24,6 +24,8 @@ I will try to update this page as soon as a new repo is added in my GitHub list.
 
 [DoItList](https://github.com/AlexInntekt/DoItList)
 
+[PersistentCountdownTimer](https://github.com/AlexInntekt/PersistentCountdownTimer)
+
 ### Current Projects in the company:
 [Chakra-base](https://github.com/AlexInntekt/chakra-base)  'forked repository'
 
