@@ -28,6 +28,8 @@ I will try to update this page as soon as a new repo is added in my GitHub list.
 
 [DraggableVC](https://github.com/AlexInntekt/DraggableVC)
 
+[DesignableX](https://github.com/AlexInntekt/DesignableX) 'forked from bigmountainstudio'
+
 
 ### Current Projects in the company:
 [Chakra-base](https://github.com/AlexInntekt/chakra-base)  'forked repository'
