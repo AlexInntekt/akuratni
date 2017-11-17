@@ -32,7 +32,7 @@ I will try to update this page as soon as a new repo is added in my GitHub list.
 
 
 ### Current Projects in the company:
-[Chakra-base](https://github.com/AlexInntekt/chakra-base)  'forked repository'
+[Chakra-base](https://github.com/ionescu77/chakra-base/commits/master)  'forked repository for team work'
 
 ### Other usefull repos:
 [BranchesMerger](https://github.com/AlexInntekt/BranchesMerger)
