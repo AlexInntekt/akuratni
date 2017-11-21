@@ -32,7 +32,8 @@ I will try to update this page as soon as a new repo is added in my GitHub list.
 
 [StudyRepo](https://github.com/AlexInntekt/StudyRepo) 
 
-
+### Personal modules:
+[RealmSwiftHelper](https://github.com/AlexInntekt/RealmSwiftHelper)
 
 ### Current Projects in the company:
 [Chakra-base](https://github.com/ionescu77/chakra-base/commits/master)  'forked repository for team work'
