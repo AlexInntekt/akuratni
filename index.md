@@ -43,6 +43,8 @@ I will try to update this page as soon as a new repo is added in my GitHub list.
 
 [StudyRepo](https://github.com/AlexInntekt/StudyRepo)
 
+[DataProtectionDemo](https://github.com/AlexInntekt/DataProtectionDemo)
+
 
 PS: 'Akuratni' in russian means tidy, organized.
 
